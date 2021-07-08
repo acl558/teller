@@ -40,7 +40,7 @@ void Teller::remove() {
         Teller::status -= 1;
         cout << "Putting 1 cake on the plate..." << endl;
     }else{
-        cout << "There aren't any cake on the plate!" << endl;
+        cout << "There aren't any cake on the plate!!" << endl;
     }
 }
 
